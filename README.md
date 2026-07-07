@@ -1,75 +1,57 @@
-Hi there! 👋 I'm Mohit Ahirwar
+<h1 align="center">Hi there! 👋 I'm Mohit Ahirwar (EMO)</h1>
 
-🚀 About Me
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Computer+Science+%26+IT+Student;Founder+of+EMO+Learners;Full-Stack+Web+Developer;AI+Applications+Builder" alt="Typing SVG" />
+  </a>
+</p>
 
-I'm a Computer Science and Information Technology student passionate about building AI-powered applications and full-stack web projects that solve real-world problems.
+<p align="center">
+  <em>Passionate about building AI-powered applications and full-stack web projects that solve real-world problems. Founder of <strong>EMO Learners</strong> and Google Student Ambassador.</em>
+</p>
 
-I'm the Founder of EMO Learners, an educational platform focused on making learning smarter and more accessible through technology. I'm also a Google Student Ambassador, actively contributing to the student developer community.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohit-ahirwar-12bb58386"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://mohitahirwarportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://github.com/Emomohit"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
-🌱 Currently Learning
+---
 
-- Data Structures & Algorithms
-- Python
-- Full-Stack Development
-- Artificial Intelligence
-- Database Management Systems
+### 💻 Tech Stack
 
-💻 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+</p>
 
-Languages
+---
 
-- Python
-- C++
-- JavaScript
-- HTML5
-- CSS3
-- SQL
+### 🚀 Featured Emo Projects
 
-Tools & Technologies
+- **[EmoFinance](https://github.com/Emomohit/emofinance)**: A stunning offline-first AI Finance Copilot with local rule-based insights and glassmorphism UI.
+- **[EMO OS](https://github.com/Emomohit/EmoOS)**: A custom web-based operating system UI simulation.
+- **[EMOVibes](https://github.com/Emomohit/EMOVibes)**: A premium music player app with dynamic lyrics integration.
+- **[EMO Learners](https://github.com/Emomohit/EMO-Learners)**: AI-powered learning platform providing study materials and AI assistance.
 
-- Git
-- GitHub
-- VS Code
-- MySQL
-- React (Learning)
-- AI APIs
+---
 
-📌 Featured Projects
+### 📊 GitHub Analytics
 
-🎓 EMO Learners
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emomohit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emomohit&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emomohit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
 
-An AI-powered learning platform that provides study materials, previous-year papers, AI assistance, and student-focused learning resources.
+---
 
-🤖 EMO AI
-
-An AI assistant designed to help students with learning, productivity, and academic support.
-
-🏏 Cricket Management System
-
-A database-driven project for managing cricket teams, players, matches, and statistics.
-
-🎯 Current Goals
-
-- Build impactful AI applications
-- Master Full-Stack Development
-- Improve problem-solving skills
-- Contribute to open-source projects
-- Secure a Software Engineering internship
-
-📫 Connect With Me
-
-💼 LinkedIn: https://www.linkedin.com/in/mohit-ahirwar-12bb58386
-
-🌐 Portfolio: https://mohitahirwarportfolio.vercel.app
-
-🐙 GitHub: https://github.com/Emomohit
-
-📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emomohit&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emomohit&layout=compact&theme=github_dark)
-
-⚡ Fun Fact
-
-I enjoy building AI-powered educational tools that help students learn smarter and become industry-ready.
+### ⚡ Fun Fact
+I enjoy building AI-powered educational tools that help students learn smarter and become industry-ready! 🚀
