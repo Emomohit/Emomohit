@@ -36,9 +36,9 @@
 |---------|-------------|------------|
 | **[EMO Learners](https://emolearners.vercel.app/)** | A free, full-stack educational playground for ambitious Indian students featuring courses, tests, and real-time study tools. | React, Vite, Supabase, Tailwind, TypeScript |
 | **EMoIQ** | An AI-Powered Smart Exam Strategy Engine. Upload PYQs, get topic weightage, predicted questions, and dynamic study plans. | React, AI Models, Python Backend |
+| **EMOVibes** | A next-generation music player and visualizer featuring a premium glassmorphic UI, dynamic lyrics, and an immersive user experience. | React, Vite, Framer Motion, Tailwind |
 | **Wildfire Tracker** | Real-time NASA satellite data visualization app tracking active wildfires across the globe using the EONET API. | React, Google Maps API, Leaflet |
 | **Movie Recommender** | Content-based AI recommendation engine built using TF-IDF and Cosine Similarity to find hyper-accurate movie matches. | Python, Pandas, Scikit-Learn |
-| **EMOVibes** | A next-generation music player and visualizer featuring a premium glassmorphic UI, dynamic lyrics, and an immersive user experience. | React, Vite, Framer Motion, Tailwind |
 
 ---
 
@@ -55,12 +55,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emomohit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Mohit's GitHub Stats" width="48%">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Emomohit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Mohit's GitHub Stats" width="48%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emomohit&theme=tokyonight&hide_border=true&background=0D1117" alt="Mohit's GitHub Streak" width="48%">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emomohit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Emomohit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages">
 </p>
 
 ---
