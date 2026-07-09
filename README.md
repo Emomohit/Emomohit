@@ -1,58 +1,74 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=250&section=header&text=Mohit%20Ahirwar&fontSize=70&fontAlignY=35&desc=Turning%20Code%20into%20Impact&descAlignY=55&descSize=20&fontColor=ffffff" />
+</div>
+
 <h1 align="center">Hi there! 👋 I'm Mohit Ahirwar (EMO)</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Computer+Science+%26+IT+Student;Founder+of+EMO+Learners;Full-Stack+Web+Developer;AI+Applications+Builder" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;AI+Applications+Builder;Founder+of+EMO+Learners;Computer+Science+%26+IT+Student" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <em>Passionate about building AI-powered applications and full-stack web projects that solve real-world problems. Founder of <strong>EMO Learners</strong> and Google Student Ambassador.</em>
+  <em>Passionate about building AI-powered applications, scalable full-stack platforms, and solving real-world problems from scratch. Founder of <strong>EMO Learners</strong> and Google Student Ambassador. <strong>I build things, not just copy them.</strong></em>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohit-ahirwar-12bb58386"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://mohitahirwarportfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-  <a href="https://github.com/Emomohit"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
-### 💻 Tech Stack
-
-<p>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-</p>
+### 🚀 About Me
+- 🎓 Pursuing B.Tech in Computer Science & IT.
+- 💡 I love architecting complex systems and bringing unique ideas to life. I don't believe in tutorial hell; I believe in writing real code.
+- 👨‍💻 Currently heavily focused on **AI Integrations, React/Next.js, Python, and Supabase**.
+- 🌟 **My Motto:** Stop wasting time. Start building.
 
 ---
 
-### 🚀 Featured Emo Projects
+### 🏆 Featured Projects (Built From Scratch)
 
-- **[EmoFinance](https://github.com/Emomohit/emofinance)**: A stunning offline-first AI Finance Copilot with local rule-based insights and glassmorphism UI.
-- **[EMO OS](https://github.com/Emomohit/EmoOS)**: A custom web-based operating system UI simulation.
-- **[EMOVibes](https://github.com/Emomohit/EMOVibes)**: A premium music player app with dynamic lyrics integration.
-- **[EMO Learners](https://github.com/Emomohit/EMO-Learners)**: AI-powered learning platform providing study materials and AI assistance.
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| **[EMO Learners](https://emolearners.vercel.app/)** | A free, full-stack educational playground for ambitious Indian students featuring courses, tests, and real-time study tools. | React, Vite, Supabase, Tailwind, TypeScript |
+| **EMoIQ** | An AI-Powered Smart Exam Strategy Engine. Upload PYQs, get topic weightage, predicted questions, and dynamic study plans. | React, AI Models, Python Backend |
+| **Wildfire Tracker** | Real-time NASA satellite data visualization app tracking active wildfires across the globe using the EONET API. | React, Google Maps API, Leaflet |
+| **Movie Recommender** | Content-based AI recommendation engine built using TF-IDF and Cosine Similarity to find hyper-accurate movie matches. | Python, Pandas, Scikit-Learn |
+| **EMO Chess** | 2-player algorithmic chess engine built with customized logic and dynamic dark mode UI. | React, Game Theory Algorithms |
 
 ---
 
-### 📊 GitHub Analytics
+### 💻 Tech Arsenal
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emomohit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Emomohit&theme=tokyonight&hide_border=true&background=0D1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emomohit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)
-
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,vite" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,nodejs,supabase,firebase,git" />
 </div>
 
 ---
 
-### ⚡ Fun Fact
-I enjoy building AI-powered educational tools that help students learn smarter and become industry-ready! 🚀
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Emomohit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Mohit's GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Emomohit&theme=tokyonight&hide_border=true&background=0D1117" alt="Mohit's GitHub Streak" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emomohit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Emomohit&color=8B5CF6&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <em>"Talk is cheap. Show me the code." - Linus Torvalds</em>
+</p>
