@@ -38,7 +38,7 @@
 | **EMoIQ** | An AI-Powered Smart Exam Strategy Engine. Upload PYQs, get topic weightage, predicted questions, and dynamic study plans. | React, AI Models, Python Backend |
 | **Wildfire Tracker** | Real-time NASA satellite data visualization app tracking active wildfires across the globe using the EONET API. | React, Google Maps API, Leaflet |
 | **Movie Recommender** | Content-based AI recommendation engine built using TF-IDF and Cosine Similarity to find hyper-accurate movie matches. | Python, Pandas, Scikit-Learn |
-| **EMO Chess** | 2-player algorithmic chess engine built with customized logic and dynamic dark mode UI. | React, Game Theory Algorithms |
+| **EMOVibes** | A next-generation music player and visualizer featuring a premium glassmorphic UI, dynamic lyrics, and an immersive user experience. | React, Vite, Framer Motion, Tailwind |
 
 ---
 
